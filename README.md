@@ -6,3 +6,6 @@ Requires the following keys from your developer page:
     oauth.consumerSecret
     oauth.accessToken
     oauth.accessTokenSecret
+
+# What this program can do:
+    Test
