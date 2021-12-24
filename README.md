@@ -7,7 +7,7 @@ Requires the following keys from your developer page:
 * oauth.accessToken
 * oauth.accessTokenSecret
 
-# What this program can do:
+## What this program can do: ##
     Send out a tweet from your account
     Fetch all tweets from a User
     Fetch all tweets and retweets from any given User
